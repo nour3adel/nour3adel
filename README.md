@@ -1,6 +1,4 @@
-<img alt="Header" width="4000" height="400" src="https://user-images.githubusercontent.com/90010134/131928725-4f937479-634a-46d3-840e-e50555300bdf.jpg">
-
-
+<img alt="Header" width="4000"  src="https://user-images.githubusercontent.com/90010134/131929504-25bf4e18-d18e-4616-a4cb-48fb834e5daa.jpg">
 
 
 
@@ -14,7 +12,8 @@
 <p align="left"> <a href="https://twitter.com/n3dell" target="blank"><img src="https://img.shields.io/twitter/follow/n3dell?logo=twitter&style=for-the-badge" alt="n3dell" /></a> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90010134/131927929-5933b213-b674-48d5-b972-d6f9cf26b137.jpg">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90010134/131929601-417eb4bb-2969-4097-b631-d8eb7a79993c.jpg">
+
 - 📫 How to reach me **nour3del145@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -28,6 +27,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nour3adel&show_icons=true&locale=en&layout=compact" alt="nour3adel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nour3adel&show_icons=true&locale=en" alt="nour3adel" /></p>
