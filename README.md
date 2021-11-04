@@ -10,6 +10,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/n3dell" target="blank"><img src="https://img.shields.io/twitter/follow/n3dell?logo=twitter&style=for-the-badge" alt="n3dell" /></a> </p>
+<p align="left"> <a href="https://fb.com/nour.3del.mo7med" target="blank"><img src="https://img.shields.io/facebook/follow/nour.3del.mo7med?logo=facebook&style=for-the-badge" alt="nour.3del.mo7med" /></a> </p>
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90010134/131929601-417eb4bb-2969-4097-b631-d8eb7a79993c.jpg">
@@ -19,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/n3dell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n3dell" height="30" width="40" /></a>
-  <a href="https://fb.com/nour.3del.mo7med" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n3dell" height="30" width="40" /></a>
 <a href="https://fb.com/nour.3del.mo7med" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nour adel" height="30" width="40" /></a>
 <a href="https://instagram.com/_nour3adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nour3adel" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/VdCDh7W3JT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VdCDh7W3JT" height="30" width="40" /></a>
