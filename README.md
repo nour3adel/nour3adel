@@ -10,7 +10,6 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/n3dell" target="blank"><img src="https://img.shields.io/twitter/follow/n3dell?logo=twitter&style=for-the-badge" alt="n3dell" /></a> </p>
-<p align="left"> <a href="https://fb.com/nour.3del.mo7med" target="blank"><img src="https://img.shields.io/facebook/follow/nour.3del.mo7med?logo=facebook&style=for-the-badge" alt="nour.3del.mo7med" /></a> </p>
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90010134/131929601-417eb4bb-2969-4097-b631-d8eb7a79993c.jpg">
