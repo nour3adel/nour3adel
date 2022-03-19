@@ -1,14 +1,14 @@
 ## Hi, I'm Nour 👋
 
 <a href="https://www.linkedin.com/in/nour-adel-2a848421b/" target="_blank">
-<img alt="Nour's LinkdeIn" src="https://img.shields.io/badge/Nour-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+<img alt="Nour's LinkdeIn" src="https://img.shields.io/badge/Nour Adel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:youssefkfarouk@gmail.com" target="_blank">
-<img alt="Youssef's Gmail"src="https://img.shields.io/badge/youssefkfarouk@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="youssefkfarouk@gmail.com">
+<a href="mailto:nour3del145@gmail.com" target="_blank">
+<img alt="Nour's Gmail"src="https://img.shields.io/badge/nour3del145@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="nour3del145@gmail.com">
 </a>
- <a href="https://www.instagram.com/youssefkhaled08/" target="_blank">
- <img alt="Youssef's Instagram" src="https://img.shields.io/badge/youssefkhaled08_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+ <a href="https://www.instagram.com/_nour3adel/" target="_blank">
+ <img alt="Nour's Instagram" src="https://img.shields.io/badge/_nour3adel-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 
 </a>
 
