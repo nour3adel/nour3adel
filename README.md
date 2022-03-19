@@ -16,8 +16,8 @@
 <br />
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### I am a junior tudent at Faculty of Computer Science and Information Technology at Ain-Shams University,
--  📚  passionate to try new things.  
+### I am a junior Student at Faculty of Computer Science and Information Technology at Ain-Shams University,
+- 📚 passionate to try new things.  
 - 📌  Lives in Obour City, Egypt.
    
 - 👨🏽‍💻 I'm currently working on learning Algorithms and Data Structures in more depth.
