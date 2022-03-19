@@ -42,7 +42,7 @@
 [![Nour3adel's github stats](https://github-readme-stats.vercel.app/api?username=nour3adel&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/nour3adel?tab=repositories)
 
 <br />
-<br />
+
 
 ### Used Languages:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nour3adel&layout=compact&card_width=450&theme=radical )](https://github.com/nour3adel/github-readme-stats)
