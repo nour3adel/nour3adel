@@ -1,7 +1,7 @@
-## Hi, I'm Youssef 👋
+## Hi, I'm Nour 👋
 
-<a href="https://www.linkedin.com/in/youssefkhaled08/" target="_blank">
-<img alt="Youssef's LinkdeIn" src="https://img.shields.io/badge/Youssef Khaled-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/nour-adel-2a848421b/" target="_blank">
+<img alt="Nour's LinkdeIn" src="https://img.shields.io/badge/Nour-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:youssefkfarouk@gmail.com" target="_blank">
