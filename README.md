@@ -1,32 +1,43 @@
-<img alt="Header" width="4000"  src="https://user-images.githubusercontent.com/90010134/131929504-25bf4e18-d18e-4616-a4cb-48fb834e5daa.jpg">
+## Hi, I'm Youssef 👋
 
+<a href="https://www.linkedin.com/in/youssefkhaled08/" target="_blank">
+<img alt="Youssef's LinkdeIn" src="https://img.shields.io/badge/Youssef Khaled-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
+<a href="mailto:youssefkfarouk@gmail.com" target="_blank">
+<img alt="Youssef's Gmail"src="https://img.shields.io/badge/youssefkfarouk@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="youssefkfarouk@gmail.com">
+</a>
+ <a href="https://www.instagram.com/youssefkhaled08/" target="_blank">
+ <img alt="Youssef's Instagram" src="https://img.shields.io/badge/youssefkhaled08_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 
+</a>
 
+<br />
+<br />
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+Hi there, I'm **Youssef Khaled**, a junior CS student at Faculty of Computer Science and Information Technology at Ain-Shams University from Egypt.
 
+- 🏆 I won <a href="https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view" target="_blank">Structured Programming Best Project Award 2020 </a>offered by IBM & FCIS-ASU in my first year as a CS student for developing a clone of <a href="https://github.com/youssefkhaled08/Chicken-Invaders">Chicken Invaders</a> game with my team.   
+- 👨🏽‍💻 I'm currently working on learning Algorithms and Data Structures in more depth.
+- 👨🏽‍💻 I'm passionate about open source.
 
-<h1 align="center">Hi , I'm Nour Adel</h1>
-<h3 align="center">Software Engineer</h3>
+**Languages and Tools:**  
 
-<p align="left"> <a href="https://twitter.com/n3dell" target="blank"><img src="https://img.shields.io/twitter/follow/n3dell?logo=twitter&style=for-the-badge" alt="n3dell" /></a> </p>
+<code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"><code>
+<code><img height="20" alt="Java" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
+<code><img height="20" alt= "Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"></code>
+<code><img height="20" alt="CSS3" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"></code>
+<code><img height="20" alt="Android Development" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Android_icon-icons.com_66772.png"><code>
+<code><img height="20" alt="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png"><code>
+<code><img height="20" alt="Oracle SQL Developer" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png"></code>
+<code><img height="20" alt="SQLite" src="https://iconape.com/wp-content/files/sm/352402/svg/sqlite-seeklogo.com.svg"></code>
+<code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" alt="VScode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefkhaled08&count_private=true&show_icons=true&theme=radical )
 
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90010134/153199245-0167bbae-fe0f-41fa-b655-972efee11748.jpg">
-
-- 📫 How to reach me **nour3del145@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/n3dell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n3dell" height="30" width="40" /></a>
-<a href="https://fb.com/nour.3del.mo7med" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nour adel" height="30" width="40" /></a>
-<a href="https://instagram.com/_nour3adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nour3adel" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/VdCDh7W3JT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VdCDh7W3JT" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
- </p>
-
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefkhaled08&layout=compact&card_width=450&theme=radical )](https://github.com/youssefkhaled08/github-readme-stats)
