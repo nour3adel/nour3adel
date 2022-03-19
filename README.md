@@ -17,12 +17,10 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### I am a junior Student at Faculty of Computer Science and Information Technology at Ain-Shams University,
-- 📚 passionate to try new things.  
+- 📚 passionate to try new things. 
+- 👨🏽‍💻 I'm passionate about open source. 
 - 📌  Lives in Obour City, Egypt.
    
-- 👨🏽‍💻 I'm currently working on learning Algorithms and Data Structures in more depth.
-- 👨🏽‍💻 I'm passionate about open source.
-
 ### 👨🏻‍💻 Languages and Skills:
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />]()
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />]()
