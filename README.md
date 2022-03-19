@@ -17,6 +17,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 Hi there, I'm **Nour Adel**, a CS student at Faculty of Computer Science and Information Technology at Ain-Shams University from Egypt.
+### I am a junior tudent at Faculty of Computer Science and Information Technology at Ain-Shams University,
+-  📚  passionate to try new things.  
+- 📌  Lives in Obour City, Egypt.
    
 - 👨🏽‍💻 I'm currently working on learning Algorithms and Data Structures in more depth.
 - 👨🏽‍💻 I'm passionate about open source.
@@ -33,6 +36,7 @@ Hi there, I'm **Nour Adel**, a CS student at Faculty of Computer Science and Inf
 <code><img height="20" alt="SQLite" src="https://iconape.com/wp-content/files/sm/352402/svg/sqlite-seeklogo.com.svg"></code>
 <code><img height="20" alt="VScode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
-![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour3adel&count_private=true&show_icons=true&theme=radical )
+### 📈 Stats:
+[![Nour3adel's github stats](https://github-readme-stats.vercel.app/api?username=nour3adel&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/nour3adel?tab=repositories)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nour3adel&layout=compact&card_width=450&theme=radical )](https://github.com/nour3adel/github-readme-stats)
