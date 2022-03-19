@@ -4,6 +4,10 @@
 <img alt="Nour's LinkdeIn" src="https://img.shields.io/badge/Nour Adel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="https://twitter.com/N3dell" target="_blank">
+<img alt="Nour's Twitter" src="https://img.shields.io/badge/Nour Adel-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+
 <a href="mailto:nour3del145@gmail.com" target="_blank">
 <img alt="Nour's Gmail"src="https://img.shields.io/badge/nour3del145@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="nour3del145@gmail.com">
 </a>
