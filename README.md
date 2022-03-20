@@ -20,7 +20,7 @@
 <br />
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="230">
+
 ### I am a junior Student at Faculty of Computer Science and Information Technology at Ain-Shams University,
 - 📚 passionate to try new things. 
 - 👨🏽‍💻 I'm passionate about open source. 
@@ -46,6 +46,7 @@
 
 <br />
 
+<img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="230">
 
 ### Used Languages:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nour3adel&layout=compact&card_width=450&theme=radical )](https://github.com/nour3adel/github-readme-stats)
