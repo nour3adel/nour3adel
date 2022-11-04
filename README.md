@@ -1,5 +1,6 @@
 ## Hi, I'm Nour 👋
 
+
 <a href="https://www.linkedin.com/in/nour-adel-2a848421b/" target="_blank">
 <img alt="Nour's LinkdeIn" src="https://img.shields.io/badge/Nour Adel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -23,12 +24,10 @@
         <img src='https://user-images.githubusercontent.com/60513866/193420194-36d02223-e2b7-4f5b-9327-6a331b842456.gif' alt='developer' />
 </div>
 
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Computer+Science+Student;Software+Engineer;Competitive+Programmer;Always+have+a+passion+for+coding+and+learning&center=true&width=500&height=50"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=20F700&center=true&vCenter=true&width=435&lines=Nour+Adel;Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
-
-
-
 
 ## I am a junior Student at Faculty of Computer and Information Science at Ain-Shams University,
 - 📚 passionate to try new things. 
@@ -54,8 +53,13 @@
 <br />
 <br />
 
+
 ### 📈 Stats:
-[![Nour3adel's github stats](https://github-readme-stats.vercel.app/api?username=nour3adel&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/nour3adel?tab=repositories)
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="Nour Adel" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=nour3adel&theme=modern-lilac&hide_border=true"/>
+  </a></p>
 
 <br />
 
