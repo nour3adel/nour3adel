@@ -54,7 +54,9 @@
 <br />
 
 
-### 📈 Stats:
+## 📊 Streak stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -80,4 +82,6 @@
   
 <br/>
 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="nour3adel's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nour3adel&bg_color=000000&color=F8D866&line=880ED4&point=FFFFFF&hide_border=true" /></a>
