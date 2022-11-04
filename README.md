@@ -28,10 +28,9 @@
 </p>
 
 
-<!-- https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif -->
 
 
-### I am a junior Student at Faculty of Computer Science and Information Technology at Ain-Shams University,
+## I am a junior Student at Faculty of Computer and Information Science at Ain-Shams University,
 - 📚 passionate to try new things. 
 - 👨🏽‍💻 I'm passionate about open source. 
 - 📌  Lives in Obour City, Egypt.
