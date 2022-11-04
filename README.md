@@ -18,7 +18,17 @@
 
 <br />
 <br />
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+ <div align="center">
+        <img src='https://user-images.githubusercontent.com/60513866/193420194-36d02223-e2b7-4f5b-9327-6a331b842456.gif' alt='developer' />
+</div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Computer+Science+Student;Software+Engineer;Competitive+Programmer;Always+have+a+passion+for+coding+and+learning&center=true&width=500&height=50"></a>
+</p>
+
+
+<!-- https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif -->
 
 
 ### I am a junior Student at Faculty of Computer Science and Information Technology at Ain-Shams University,
@@ -50,7 +60,7 @@
 
 <br />
 
-<img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="230">
+
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nour3adel&layout=compact&card_width=450&theme=radical )](https://github.com/nour3adel/github-readme-stats)
