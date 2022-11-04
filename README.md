@@ -20,22 +20,24 @@
 <br />
 <br />
 
- <div align="center">
-        <img src='https://user-images.githubusercontent.com/60513866/193420194-36d02223-e2b7-4f5b-9327-6a331b842456.gif' alt='developer' />
-</div>
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=20F700&center=true&vCenter=true&width=435&lines=Nour+Adel;Computer+Science+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF00C2&center=true&vCenter=true&width=435&lines=Nour+Adel;Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
 
 ## I am a junior Student at Faculty of Computer and Information Science at Ain-Shams University,
 - 📚 passionate to try new things. 
 - 👨🏽‍💻 I'm passionate about open source. 
 - 📌  Lives in Obour City, Egypt.
-   
-### 👨🏻‍💻 Languages and Skills:
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />]()
+
+
+
+## 👨🏻‍💻 Languages and Skills 
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />]()
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />]()
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />]()
