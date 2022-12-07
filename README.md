@@ -71,19 +71,16 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
+
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nour3adel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nour3adel&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=880ED4&icon_color=880ED4" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nour3adel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour3adel&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=880ED4&icon_color=880ED4" height="192px"/></a>
   <br/>
 
-</details>
+
 
 
   
 <br/>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="nour3adel's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nour3adel&bg_color=000000&color=F8D866&line=880ED4&point=FFFFFF&hide_border=true" /></a>
