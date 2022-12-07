@@ -26,12 +26,25 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF00C2&center=true&vCenter=true&width=435&lines=Nour+Adel;Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
 
-## I am a junior Student at Faculty of Computer and Information Science at Ain-Shams University,
-- 📚 passionate to try new things. 
-- 👨🏽‍💻 I'm passionate about open source. 
-- 📌  Lives in Obour City, Egypt.
+
+## 😎 About me
+```py
+  class PersonalInfo:
+    def __init__(self):
+        self.name = 'Mohamed Magdy'
+        self.title = 'Software Engineer'
+        self.location = 'Cairo, Egypt'
+        self.ides = ['Clion', 'IntelliJ', 'PyCharm', 'VS Code']
+        self.languages = ['C++', 'Java', 'Python', 'HTML', 'CSS']
+        self.challenge = 'Practicing to improve my Problem Solving skill'
+
+    def __str__(self):
+        return self.name
 
 
+if __name__ == '__main__':
+    me = PersonalInfo()
+```
 
 ## 👨🏻‍💻 Languages and Skills 
 
@@ -53,28 +66,7 @@
 
    
 <br />
-<br />
 
-
-## 📊 Streak stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Nour Adel" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=nour3adel&theme=modern-lilac&hide_border=true"/>
-  </a></p>
-
-<br />
-
-
-## 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nour3adel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nour3adel&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=880ED4&icon_color=880ED4" height="192px"/></a>
 
 ## 📊 Languages Used stats
 
