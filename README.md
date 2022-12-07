@@ -31,10 +31,10 @@
 ```py
   class PersonalInfo:
     def __init__(self):
-        self.name = 'Mohamed Magdy'
+        self.name = 'Nour Adel'
         self.title = 'Software Engineer'
-        self.location = 'Cairo, Egypt'
-        self.ides = ['Clion', 'IntelliJ', 'PyCharm', 'VS Code']
+        self.location = 'Obour City , Egypt'
+        self.ides = ['eclipse', 'IntelliJ', 'PyCharm', 'VS Code' ]
         self.languages = ['C++', 'Java', 'Python', 'HTML', 'CSS']
         self.challenge = 'Practicing to improve my Problem Solving skill'
 
