@@ -46,6 +46,7 @@ if __name__ == '__main__':
     me = PersonalInfo()
 ```
 <br />
+
 ## 👨🏻‍💻 Languages and Skills 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
