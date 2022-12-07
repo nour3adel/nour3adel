@@ -27,7 +27,7 @@
 </p>
 
 
-## 😎 About me
+##  About me
 ```py
   class PersonalInfo:
     def __init__(self):
