@@ -47,7 +47,7 @@ if __name__ == '__main__':
 ```
 <br />
 
-```ipynb
+```c++
   class PersonalInfo:
     def __init__(self):
         self.name = 'Nour Adel'
